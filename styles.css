@@ -5,6 +5,8 @@ body{
 .book-library{
 	background-color: #ffffff;
 	margin: 10px;
+	width: 600px;
+	height: 10px;
 }
 .book-library[img]{
 	background-color: inherit; 
@@ -13,8 +15,17 @@ body{
 h1{
 	text-align: center
 }
+h2{
+	margin: 1px;
+}
 .rate{
-	background-color: green;
+	background-color: lightgreen;
 	text-align: center;
 	padding: 10px;
+	
+	color: white;
+	text-decoration-thickness: 1px solid black;
+}
+p{
+	margin:1px;
 }
