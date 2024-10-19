@@ -12,6 +12,12 @@ body{
 	background-color: inherit; 
 	left: 50%;
 }
+.book{
+	margin: 15px;
+}
+.book>p{
+	color: #777777;
+}
 h1{
 	text-align: center
 }
@@ -19,7 +25,7 @@ h2{
 	margin: 1px;
 }
 .rate{
-	background-color: lightgreen;
+	background-color: #2ecc71;
 	text-align: center;
 	padding: 10px;
 	
