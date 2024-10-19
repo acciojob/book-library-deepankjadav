@@ -12,9 +12,8 @@ body{
 	background-color: inherit; 
 	left: 50%;
 }
-.book{
-	margin: 15px;
-	background-color: #ffffff;
+.book {
+    background-color: rgb(46, 204, 113); /* Expected green color */
 }
 .book>p{
 	color: #777777;
