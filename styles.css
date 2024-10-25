@@ -30,7 +30,7 @@ body {
   border-radius: 8px;
 }
 
-.book h3 {
+.book h2 {
   font-size: 1.2em;
   margin: 10px 0 5px;
 }
@@ -44,4 +44,11 @@ body {
   color: #2ecc71;
   font-weight: bold;
   margin-top: 5px;
+}
+.heading{
+	text-align: center;
+}
+.heading h1{
+	background-color: #ffffff;
+	font-family: italic;
 }
