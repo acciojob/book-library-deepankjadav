@@ -41,7 +41,8 @@ body {
 }
 
 .price {
-  color: #2ecc71;
+  color: white;
+	background-color:rgb(46, 204, 113);
   font-weight: bold;
   margin-top: 5px;
 }
